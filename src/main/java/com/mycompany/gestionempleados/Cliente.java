@@ -6,7 +6,7 @@ package com.mycompany.gestionempleados;
 
 /**
  *
- * @author marce
+ * @author teamUAM
  */
 public class Cliente {
     private String nombre;
